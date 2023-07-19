@@ -1,9 +1,4 @@
 #include "main.h"
-/**
-  *positive_or_negative - check whether the number is postive or nagative
-  *@i: the check variable
-  *Return: void
-  */
 void positive_or_negative(int i)
 {
 	if (i > 0)
